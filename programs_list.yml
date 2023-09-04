@@ -91,6 +91,7 @@
       - CS28@USC
       - MSCS@uAlberta
       - MSCS@uCalgary
+      - MSECS@JHU
     NONCS:
       - DS75@UCSD
       - MISM@CMU
@@ -108,26 +109,25 @@
       - MSCSE@UCSC
       - MSCS&SE@UWB
       - NetSys@UCI
-      - MSECS@JHU
       - MCS@uOttawa
       - MSCS@Western
       - CE MEng@TAMU
       - MCS@UVa
       - MSCS@UVa
+      - MSCSE@PSU
+      - MSCS@SBU
+      - MSCS@UMass
     NONCS:
       - ECE Meng@UofT
       - ECE Meng@Waterloo
       - MEng Soft@uCalgary
       - MSIM@UIUC
-      - MI@UofT
 - B-:
     CS:
+      - MI@UofT
       - MSCSE@OSU
-      - MSCSE@PSU
       - MSCS@UCD
-      - MSCS@SBU
       - MSCS@UF
-      - MSCS@UMass
       - MSCS@UMN
       - MSCS@Rutgers
       - MSCS@WUSTL
